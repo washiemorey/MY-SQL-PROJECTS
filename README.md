@@ -92,3 +92,20 @@ Sales Trends Over Time: Monthly and quarterly trends allow identifying peak and 
 Channel Partners' Contribution: The analysis shows the most and least contributing partners to sales and transactions, helping in partner performance evaluation.
 Order Frequency Impact: The impact of multiple orders on a single day on sales is analyzed to understand sales surges.
 This SQL code essentially offers a complete view of sales data across various dimensions like customers, products, salespersons, regions, time (monthly/quarterly), and channel partners. The detailed analysis aids in decision-making regarding sales strategies, product focus, and partner collaboration.
+
+### DATA CLEANING 
+This in project to showcase my data cleaning skills using SQL 
+
+The cleaning process involved the following activities 
+
+Removal of duplicates 
+
+Standadizing values 
+
+Checking on Null and blank values 
+
+Removal of unneccesary column.
+
+The codes are attached above as Layoffs_datacleaning
+
+
